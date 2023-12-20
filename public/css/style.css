@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(7, 79, 88);
+
+}
+#jumbotron{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 0%;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+#nav{
+    background-color: black;
+   position: relative;
+    
+}
